@@ -9,9 +9,9 @@ entries:
           url: https://hub.docker.com/r/itzg/minecraft-server
     apiVersion: v1
     appVersion: SeeValues
-    created: "2022-01-11T12:02:50.629682273Z"
+    created: "2022-01-11T12:07:01.807817015Z"
     description: Minecraft server
-    digest: 4fd4f32bdf206cc99babe97ec4258ef0d1ecb43910a88803a57a02c600392286
+    digest: ad5909db91530cd528743dc2e03424d23ec5a9224f7ba4c056522d3db2246ded
     home: https://minecraft.net/
     keywords:
     - game
