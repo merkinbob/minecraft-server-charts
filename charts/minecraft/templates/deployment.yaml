@@ -335,7 +335,7 @@ spec:
       {{- else }}
         emptyDir: {}
       {{- end }}
-      {{- if and .Values.mcbackup.enabled }}
+      {{- if .Values.mcbackup.enabled }}
       - name: backupdir
       {{- if and .Values.mcbackup.persistence.backupDir.enabled .Values.mcbackup.enabled }}
         persistentVolumeClaim:
